@@ -6,3 +6,5 @@
    + Cadastrar novas pessoas.
    + Procurar por pessoas ja cadastradas
    + Excluir cadastros
+
+## Creator: Gabriel Brito (Overcrown)
